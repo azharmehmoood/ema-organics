@@ -209,9 +209,9 @@ function App() {
 
       {/* PRODUCT GALLERY */}
       <section className="product-gallery">
-        <img src="/shampoo.jpeg" alt="Product 1" />
-        <img src="/pic2.jpeg" alt="Product 2" />
-        <img src="/pic3.jpeg" alt="Product 3" />
+        <img src="/shamp1.jpeg" alt="Product 1" />
+        <img src="/poil1.PNG" alt="Product 2" />
+        <img src="/oil.jpeg" alt="Product 3" />
       </section>
 
       {/* REVIEWS SECTION */}
